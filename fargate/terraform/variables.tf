@@ -1,5 +1,5 @@
 variable "task_execution_role_arn" {}
-variable "region" { default = "ap-south-1"}
+variable "region" { default = "us-east-1"}
 variable "environment" {}
 variable "public_subnet1" {}
 variable "public_subnet2" {}
